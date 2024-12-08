@@ -87,7 +87,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background-color: #081b29;
+    background-color: #0d0d0d;
     animation: showRight 1s ease forwards;
     animation-delay: 1s;
 }
@@ -106,7 +106,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background-color: #081b29;
+    background-color: #0d0d0d;
     animation: showRight 1s ease forwards;
     animation-delay: 1.3s;
 }
@@ -124,7 +124,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background-color: #081b29;
+    background-color: #0d0d0d;
     animation: showRight 1s ease forwards;
     animation-delay: 1.6s;
 }
@@ -144,7 +144,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background-color: #081b29;
+    background-color: #282828;
     animation: showRight 1s ease forwards;
     animation-delay: 1.9s;
     z-index: 2;
@@ -220,7 +220,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-    background-color: #081b29;
+    background-color: #252527;
     animation: showRight 1s ease forwards;
     animation-delay: 2.5s;
     z-index: 2;
