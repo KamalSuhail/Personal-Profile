@@ -211,10 +211,11 @@ body {
 }
 
 .home-image img {
-    max-width: 70%;
+    max-width: 60%;
     height: auto;
     border-radius: 5%; /* Optional for rounded corners */
-    margin-right: 150px;
+    margin-right: 90px;
+    margin-top: 25px;
 }
 
 .home-sci {
